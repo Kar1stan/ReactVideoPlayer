@@ -26,7 +26,7 @@ export default function App() {
 
   return (
     <div>
-      <h1>Project 6: Video Player</h1>
+      <h1>Video Player</h1>
       <Menu onSelectVideo={onSelectVideo} videoValues={videoNames} />
       <Video videoSrc={videoSrc} />
     </div>
