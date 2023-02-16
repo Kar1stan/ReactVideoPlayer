@@ -1,6 +1,6 @@
 # ReactVideoPlayer
 ***
-Video player on React,consists of 4 videouses(deer,snail,cat and spider).
+Video player on React,consists of 4 videos(deer,snail,cat and spider).
 
 ## 💻 Pre-requisites
 
